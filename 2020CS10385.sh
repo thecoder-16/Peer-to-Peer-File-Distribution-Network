@@ -1,0 +1,1 @@
+python 2020CS10385_server_part1.py & python 2020CS10385_client_part1.py
